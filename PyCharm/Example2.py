@@ -17,3 +17,4 @@ if __name__ == '__main__':
     else:
         print("Ошибка!", file=sys.stderr)
         exit(1)
+        
